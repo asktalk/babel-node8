@@ -1,0 +1,11 @@
+{
+  "name": "babel-node8",
+  "version": "0.0.1",
+  "scripts": {
+    "compile": " babel src/ --out-dir app/ --retain-lines --source-maps",
+    "start": "node app/main1.js"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1"
+  }
+}

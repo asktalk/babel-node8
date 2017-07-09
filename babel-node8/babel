@@ -1,0 +1,15 @@
+{
+
+
+  "plugins": [
+    "transform-es2015-modules-commonjs",
+    "syntax-dynamic-import",
+    "dynamic-import-node",
+    "syntax-export-extensions",
+    "external-helpers",
+    "transform-export-extensions",
+    "transform-runtime"
+  ],
+  "sourceMaps": true,
+  "retainLines": true
+}
