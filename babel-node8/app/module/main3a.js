@@ -3,7 +3,9 @@
                */
 
 
-var a = require('./base.js');
+var a = require('./base3.js');
 
 console.log(a);
-//# sourceMappingURL=main.js.map
+
+a();
+//# sourceMappingURL=main3a.js.map

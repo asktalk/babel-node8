@@ -2,13 +2,9 @@
                * Created by keep on 07/11/17.
                */
 
-var a = {
+module.exports = {
     name: "sadfasdfas",
     test1: function () {
         console.log("test run");
     } };
-
-
-
-module.exports.a = a;
-//# sourceMappingURL=base.js.map
+//# sourceMappingURL=base3.js.map
