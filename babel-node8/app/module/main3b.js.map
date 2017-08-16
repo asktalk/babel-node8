@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/module/main3b.js"],"names":["console","log","test1"],"mappings":";;;;AAIA;;AAEAA,QAAQC,GAAR,U,CANA;;yBAQA,QAAEC,KAAF","file":"main3b.js","sourcesContent":["/**\r\n * Created by keep on 07/11/17.\r\n */\r\n\r\nimport { a } from './base'\r\n\r\nconsole.log(a)\r\n\r\na.test1()\r\n\r\n"]}

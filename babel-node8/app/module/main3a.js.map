@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/module/main3a.js"],"names":["a","require","console","log"],"mappings":"cAAA;;;;;AAKA,IAAIA,IAAIC,QAAQ,YAAR,CAAR;;AAEAC,QAAQC,GAAR,CAAYH,CAAZ;;AAEAA","file":"main3a.js","sourcesContent":["/**\r\n * Created by keep on 07/11/17.\r\n */\r\n\r\n\r\nvar a = require('./base3.js');\r\n\r\nconsole.log(a)\r\n\r\na()\r\n\r\n"]}
